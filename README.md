@@ -13,4 +13,4 @@ que no existe o la clave incorrecta.
   
 ### Jira
 Jira es la herramienta la cual utilizamos para poder hacer los test sobre los casos de prueba.
- [![](/MATRIZ.png)]()
+ [![](/JIRA.png)]()
